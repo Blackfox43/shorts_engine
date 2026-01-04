@@ -1,6 +1,0 @@
-moviepy
-gtts
-pydub
-fastapi
-uvicorn
-python-dotenv
