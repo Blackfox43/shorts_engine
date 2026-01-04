@@ -1,8 +1,9 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from backend.series import generate_series
-from backend.video import create_video
-from backend.scheduler import schedule_series
+from series import generate_series
+from video import create_video
+from scheduler import schedule_series
+
 
 app = FastAPI(title="Shorts Engine")
 
