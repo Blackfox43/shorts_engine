@@ -3,7 +3,7 @@ import requests
 import os
 from pathlib import Path
 
-API_URL =https://shorts-backend-n73r.onrender.com
+API_URL =https:// "shorts-backend-n73r.onrender.com"
 VIDEO_OUTPUT = Path("output/videos")
 VIDEO_OUTPUT.mkdir(parents=True, exist_ok=True)
 
