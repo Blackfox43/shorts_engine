@@ -4,3 +4,5 @@ pydub
 fastapi
 uvicorn
 python-dotenv
+streamlit
+requests
